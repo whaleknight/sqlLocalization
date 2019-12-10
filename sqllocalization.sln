@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sqllocalization", "sqllocalization\sqllocalization.csproj", "{B5E9CE4B-01A5-4B0C-BCED-C94843DD0772}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5E9CE4B-01A5-4B0C-BCED-C94843DD0772}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5E9CE4B-01A5-4B0C-BCED-C94843DD0772}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5E9CE4B-01A5-4B0C-BCED-C94843DD0772}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5E9CE4B-01A5-4B0C-BCED-C94843DD0772}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3C8F735-045A-4A29-954C-5F46394E3C9D}
+	EndGlobalSection
+EndGlobal
